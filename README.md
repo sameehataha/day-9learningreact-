@@ -1,4 +1,4 @@
-# day-9learningreact-
+# day-9learningreact-🚀
 # 🎭 Meme Generator
 
 A fun and interactive React application that allows users to create custom memes using popular meme templates fetched from the Imgflip API.
